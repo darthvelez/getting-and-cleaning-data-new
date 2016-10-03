@@ -1,8 +1,8 @@
-# getting-and-cleaning-data-new
 ---
 title: "README file for Getting and Cleaning Data class Project from John Hopkins University as part of the Coursera Data Science Specialization"
 author: "Carlos Velez"
 date: "10/3/2016"
+output: html_document
 ---
 
 
